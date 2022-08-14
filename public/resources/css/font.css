@@ -1,0 +1,28 @@
+/* arima light */
+@font-face {
+    font-family: 'arima';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/arima/static/Arima-Light.ttf') format('truetype');
+}
+/* arima medium */
+@font-face {
+    font-family: 'arima';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/arima/static/Arima-Medium.ttf') format('truetype');
+}
+/* arima regular */
+@font-face {
+    font-family: 'arima';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/arima/static/arima-SemiBold.ttf') format('truetype');
+}
+/* devanagari */
+@font-face {
+    font-family: 'arima';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/arima/static/Arima-Bold.ttf') format('truetype');
+}
